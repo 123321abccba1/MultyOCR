@@ -1,4 +1,4 @@
-package com.ocr.OCR_API.TencentOcrApi.example.ocrjson;
+package com.ocr.OCR_API.TencentOcrApi.ocrjson;
 
 /**
   * Copyright 2023 json.cn 

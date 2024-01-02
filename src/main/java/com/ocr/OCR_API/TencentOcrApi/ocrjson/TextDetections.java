@@ -1,7 +1,7 @@
 /**
   * Copyright 2023 json.cn 
   */
-package com.ocr.OCR_API.TencentOcrApi.example.ocrjson;
+package com.ocr.OCR_API.TencentOcrApi.ocrjson;
 import java.util.List;
 
 /**

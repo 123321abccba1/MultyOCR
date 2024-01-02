@@ -1,4 +1,4 @@
-package com.ocr.OCR_API.TencentOcrApi.example;
+package com.ocr.OCR_API.TencentOcrApi.ocrjson;
 import com.tencentcloudapi.common.Credential;
 import com.tencentcloudapi.common.profile.ClientProfile;
 import com.tencentcloudapi.common.profile.HttpProfile;

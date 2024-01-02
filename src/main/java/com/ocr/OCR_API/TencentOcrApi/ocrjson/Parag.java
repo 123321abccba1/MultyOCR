@@ -1,7 +1,7 @@
 /**
   * Copyright 2023 bejson.com 
   */
-package com.ocr.OCR_API.TencentOcrApi.example.ocrjson;
+package com.ocr.OCR_API.TencentOcrApi.ocrjson;
 
 /**
  * Auto-generated: 2023-12-27 14:32:4
